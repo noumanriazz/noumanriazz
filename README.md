@@ -1,16 +1,94 @@
-## Hi there 👋
+ <a href="https://github.com/noumanriazz">
+  <img src="https://raw.githubusercontent.com/noumanriazz/noumanriazz/main/assets/header.gif" alt="Nouman Riaz - Hello World" />
+</a>
 
-<!--
-**noumanriazz/noumanriazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 Hi there, I'm Nouman Riaz!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Full-Stack Developer | React & Node.js Expert
+
+I'm a passionate **Full-Stack Developer** specializing in building modern, scalable, and highly interactive web applications. My expertise lies in the complete **MERN stack**, with a strong focus on **React** for dynamic frontend experiences and **Node.js** for robust backend architecture.
+
+* ✨ **Specialty:** Crafting seamless user interfaces and integrating powerful AI features.
+* 🔭 **Current Focus:** Deep diving into real-time text streaming and optimization of AI API integrations.
+* 🌱 **Always Learning:** Exploring new techniques in **Backend performance** and **microservices architecture**.
+* 👯 **Collaboration:** Open to working on innovative **open-source MERN stack projects** and **AI-powered solutions**.
+* 💬 **Ask Me About:** React Hooks, Redux Toolkit state management, Express API design, or modern JavaScript features (ES6+).
+* 📬 **How to Reach Me:** [noumanriaz575@gmail.com](mailto:noumanriaz575@gmail.com)
+* ⚡ **Fun fact:** I believe the best code is the one that looks like magic but reads like prose!
+
+---
+
+## 🛠️ My Expert Tech Stack (All Skills Included)
+
+A detailed view of the technologies that power my projects.
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript (ES6+)">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
+  <img src="https://img.shields.io/badge/Zustand-2C2D30?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
+  <img src="https://img.shields.io/badge/Context%20API-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="Context API">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Material--UI%20(MUI)-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI (MUI)">
+  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn">
+</p>
+
+### Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/RESTful%20APIs-000000?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs">
+  <img src="https://img.shields.io/badge/Authentication%20(JWT%2FOAuth)-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="Authentication (JWT, OAuth)">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-800?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+</p>
+
+### AI Features & Tools/Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Chatbot%20Development-FFC107?style=for-the-badge&logo=robot&logoColor=black" alt="Chatbot Development">
+  <img src="https://img.shields.io/badge/AI%20API%20Integration-0080FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI API Integration">
+  <img src="https://img.shields.io/badge/Swagger%2FPostman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Swagger (API Documentation) / Postman">
+  <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git/GitHub">
+  <img src="https://img.shields.io/badge/Vercel%2FNetlify-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel / Netlify">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary">
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+Showcasing my commitment and consistency on GitHub with dynamic metrics.
+
+<div align="center">
+  ### My Contribution Trophies
+  *(Generated by [GitHub Trophies](https://github.com/ryo-ma/github-profile-trophy))*
+  [![Nouman Riaz's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=noumanriazz&theme=dracula&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+  ### Activity and Stats
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=noumanriazz&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Nouman Riaz's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanriazz&layout=compact&theme=dracula&hide_border=true" alt="Nouman Riaz's Top Languages" />
+  </p>
+
+  ### Contribution Graph
+  *(Generated by [GitHub Readme Activity Graph](https://github.com/Ashishpatel2500/github-readme-activity-graph))*
+  [![Nouman Riaz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noumanriazz&theme=react&hide_border=true)](https://github.com/Ashishpatel2500/github-readme-activity-graph)
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+Let's connect on professional platforms!
+
+<p align="left">
+  <a href="https://linkedin.com/in/noumanriaz321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:noumanriaz575@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
