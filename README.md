@@ -1,7 +1,7 @@
  <a href="https://github.com/noumanriazz">
-  <!-- <img src="https://raw.githubusercontent.com/noumanriazz/noumanriazz/main/assets/header.gif" alt="Nouman Riaz - Hello World" /> -->
-<img width="2560" height="636" alt="banner" src="https://github.com/user-attachments/assets/d0cc800d-7000-4fdc-b961-869c8fc78ffd" />
+ <img width="2048" height="512" alt="Generated Image October 20, 2025 - 1_08AM (1)" src="https://github.com/user-attachments/assets/490a43f3-0abc-4357-8019-3aadd95316cf" />
 </a>
+
 
 ---
 
@@ -21,7 +21,7 @@ I'm a passionate **Full-Stack Developer** specializing in building modern, scala
 
 ---
 
-## 🛠️ My Expert Tech Stack (All Skills Included)
+## 🛠️ My Expert Tech Stack
 
 A detailed view of the technologies that power my projects.
 
