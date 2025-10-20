@@ -72,7 +72,7 @@ Showcasing my commitment and consistency on GitHub with dynamic metrics.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noumanriazz&layout=compact&theme=default&hide_border=true" alt="Nouman Riaz's Top Languages" />
 </p>
 
-<div align="center">
+<div align="left">
   
   ### 🐍 My GitHub Contribution Snake
   
