@@ -1,5 +1,6 @@
  <a href="https://github.com/noumanriazz">
-  <img src="https://raw.githubusercontent.com/noumanriazz/noumanriazz/main/assets/header.gif" alt="Nouman Riaz - Hello World" />
+  <!-- <img src="https://raw.githubusercontent.com/noumanriazz/noumanriazz/main/assets/header.gif" alt="Nouman Riaz - Hello World" /> -->
+<img width="2560" height="636" alt="banner" src="https://github.com/user-attachments/assets/d0cc800d-7000-4fdc-b961-869c8fc78ffd" />
 </a>
 
 ---
